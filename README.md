@@ -10,3 +10,5 @@ Falta por hacer:
   
 - Escribir comentarios en el google colab
 - Acabar memoria (reducir max 15 hojas)
+
+- Y que Laura aprenda a escribir
