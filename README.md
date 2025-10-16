@@ -9,4 +9,4 @@ Falta por hacer:
 
   
 - Escribir comentarios en el google colab
-- Acabar memoria
+- Acabar memoria (reducir max 15 hojas)
